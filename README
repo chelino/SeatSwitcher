@@ -1,0 +1,5 @@
+This is my SeatSwitcher program
+
+It takes a list of student names from a .txt and puts them in a seating chart.
+
+It has the option to randomize the seats.
